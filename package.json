@@ -1,0 +1,26 @@
+{
+  "name": "node_jspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex198015/NodeJS-practice1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex198015/NodeJS-practice1/issues"
+  },
+  "homepage": "https://github.com/alex198015/NodeJS-practice1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^2.1.0"
+  }
+}
